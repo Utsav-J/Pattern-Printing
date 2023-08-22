@@ -5,10 +5,10 @@ We are gonna have rows and columns,
 1. Run the outer for loop for the number of time that we have rows
 
     If the pattern is 
-    A
-    A A
-    A A A
-    A A A A
+    A \n
+    A A \n  
+    A A A \n
+    A A A A \n
     Outer for loop is for rows
     Inner is for columns
     Since we have 4 rows in the above pattern, outer loop is run from 1 to 4 (inclusive), or 0 to 4 (exclusive)
